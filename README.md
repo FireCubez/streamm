@@ -6,7 +6,7 @@ Streamm is a programming language based on streamms, STDOUT is a stream, STDIN i
 Basically, each line has 2 parts, the value and the name, formatted `value|name`. The special name `,` means STDOUT, and the value Hello! means to write Hello! to STDOUT
 
 # Interpreter
-There is currently no interpreter for this language, but im working on one that should be done in a few hours (Hello Codegolf people!)
+There is currently no interpreter for this language.
 
 # Is that it?
 No. Thanks to *filters*, Streamm isn't as boring as it seems:
